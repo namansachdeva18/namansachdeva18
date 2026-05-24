@@ -1,64 +1,100 @@
-# Hi, I'm Naman Sachdeva
+<h1 align="center">Hi, I'm Naman Sachdeva</h1>
 
-**B.Tech Information Technology Student @ Manipal University Jaipur**  
-**Aspiring Data Analyst | Machine Learning Enthusiast**
+<p align="center">
+B.Tech Information Technology Student @ Manipal University Jaipur
+</p>
 
-I enjoy building data-driven solutions using **Python, SQL, Power BI, and Machine Learning** to solve real-world business problems through analytics and predictive modeling.
+<p align="center">
+Aspiring Data Analyst • Machine Learning Enthusiast
+</p>
+
+<p align="center">
+Python • SQL • Power BI • Machine Learning
+</p>
+
+---
+
+## About Me
+
+I enjoy building **data-driven solutions** using **Python, SQL, Power BI, and Machine Learning** to solve real-world business problems through analytics, predictive modeling, and data storytelling.
+
+Currently focused on:
+
+- Data Analytics
+- Machine Learning
+- Business Intelligence
+- Predictive Modeling
+- SQL & Data Exploration
 
 ---
 
 ## Skills & Technologies
 
-**Languages:** Python, SQL, Java  
+### Programming
+`Python` `SQL` `Java`
 
-**Data Analytics & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, Excel  
+### Data Analytics & Visualization
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI` `Excel`
 
-**Machine Learning:** Scikit-learn, XGBoost, LightGBM, SHAP, Feature Engineering, Model Evaluation, SMOTE  
+### Machine Learning
+`Scikit-learn` `XGBoost` `LightGBM` `SHAP` `Feature Engineering` `SMOTE`
 
-**Databases:** MySQL, SQLite, CTEs, Window Functions, Query Optimization  
+### Databases
+`MySQL` `SQLite` `CTEs` `Window Functions` `Query Optimization`
 
-**Tools:** Git, GitHub
+### Tools
+`Git` `GitHub`
 
 ---
 
 ## Featured Projects
 
 ### Customer Churn Analysis & Prediction
-- Analyzed churn patterns across 7,043 customers and identified approximately **$139K/month in at-risk revenue**
-- Built a churn prediction model and developed an interactive Power BI dashboard
+- Analyzed churn patterns across **7,043 customers**
+- Identified approximately **$139K/month in at-risk revenue**
+- Built churn prediction model + Power BI dashboard
 
-🔗 Repository: https://github.com/namansachdeva18/customer-churn-analysis
+🔗 Repository:  
+https://github.com/namansachdeva18/customer-churn-analysis
 
 ---
 
 ### Credit Risk & Probability of Default Prediction
-- Built an ML model on **307K+ loan records** for credit default prediction
-- Applied feature engineering, SHAP explainability, and business-cost optimization
+- Built ML model on **307K+ loan records**
+- Implemented feature engineering and SHAP explainability
+- Applied business-cost optimization for decision thresholds
 
-🔗 Repository: https://github.com/namansachdeva18/credit-risk-model
+🔗 Repository:  
+https://github.com/namansachdeva18/credit-risk-model
 
 ---
 
 ### Clinical Disease Prediction System
-- Built a dual-disease prediction system for **Heart Disease and Diabetes**
-- Developed explainable ML predictions using SHAP and Streamlit
+- Built explainable ML prediction system for **Heart Disease & Diabetes**
+- Benchmarked multiple ML models
+- Deployed explainable predictions using SHAP
 
-🔗 Repository: https://github.com/namansachdeva18/disease-prediction-system
+🔗 Repository:  
+https://github.com/namansachdeva18/disease-prediction-system
 
 ---
 
 ## Leadership Experience
 
-**ACM Student Chapter — Head of Design**  
-Led design initiatives for UI/UX assets, branding, and event content.
+### ACM Student Chapter — Head of Design
+Led UI/UX, branding, and event-content initiatives using Figma, Illustrator, and Photoshop.
 
-**IEEE Sensors Council — Technical Head**  
-Directed technical workshops, hackathons, and IoT initiatives.
+### IEEE Sensors Council — Technical Head
+Directed technical workshops, hackathons, and IoT initiatives while mentoring participants.
 
 ---
 
 ## Connect With Me
 
-LinkedIn: https://linkedin.com/in/naman-sachdeva18  
+📧 Email: **namansachdeva.08@gmail.com**
 
-Email: namansachdeva.08@gmail.com
+💼 LinkedIn:  
+https://linkedin.com/in/naman-sachdeva18
+
+🌐 Portfolio / Work:  
+https://www.elitedentalclinic.info/
