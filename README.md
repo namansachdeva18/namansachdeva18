@@ -13,13 +13,15 @@ Python • SQL • Power BI • Machine Learning
 
 ## About Me
 
-I enjoy building **data-driven solutions** using **Python, SQL, Power BI, and Machine Learning** to solve real-world business problems through analytics, predictive modeling, and data storytelling.
+I'm a final-year IT student who loves turning raw data and real-world problems into intelligent solutions — whether that's training a neural network, building a predictive model, or making sense of messy datasets.
 
-Currently focused on:
-- Data Analytics
-- Machine Learning
-- Business Intelligence
-- Predictive Modeling
+I enjoy working across the stack of modern AI/ML — from classical machine learning and data analytics to deep learning and computer vision — and I like building things that are both technically solid and actually useful.
+
+Currently exploring:
+- Machine Learning & Predictive Modeling
+- Deep Learning & Neural Networks
+- Computer Vision & Real-Time Inference
+- Data Analytics & Business Intelligence
 - SQL & Data Exploration
 
 ---
